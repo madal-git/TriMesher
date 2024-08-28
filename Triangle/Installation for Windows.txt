@@ -1,0 +1,7 @@
+1. Extract all file with the zip into desired directory, which will be the working directory where the generated mesh file will be saved in.
+2. Open Windows command window and navigate to the aforementioned directory and exexure the following command
+
+cc -O -o triangle triangle.c -lm
+
+3. Done
+4. Don't try to comple Showme, which usually don't work in Windows

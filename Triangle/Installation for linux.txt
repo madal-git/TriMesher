@@ -1,0 +1,5 @@
+1. Extract all file with the zip into desired directory.
+2. In line 21 change "cc" to gcc for C compiler and "g++" for C++ compiler.
+3. Type in the command "make". If error like "error: X11/Xlib.h: No such file or directory" occurs, type in the command "sudo apt-get install libx11-dev" to install missing application.
+4. Type in "sudo apt-get install triangle-bin".
+5. Done

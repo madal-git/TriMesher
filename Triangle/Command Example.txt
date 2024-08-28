@@ -1,0 +1,7 @@
+triangle -q33a.1DenYV YOUR_FILE_NAME.poly
+
+
+triangle -q33a.1DenYV Tri_18by18_1buff.poly
+
+
+showme Tri_18by18_1buff.poly
